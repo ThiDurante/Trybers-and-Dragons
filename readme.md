@@ -11,7 +11,7 @@ This one is not really meant to create something, its more of a study project, b
 git clone git@github.com:ThiDurante/Trybers-and-Dragons.git
 # Now let's get into the folder
 cd trybesmith
-# instal dependencies
+# install dependencies
 npm i
 ```
 
