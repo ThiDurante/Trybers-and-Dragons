@@ -42,7 +42,7 @@ These are the commits I made while developing the project:
 
 ## Stacks
 
-**Back-end:** Node, TypeScript
+**Back-end:** Node, TypeScript, OOP, SOLID
 
 ## 🚀 About me
 
